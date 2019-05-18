@@ -11,5 +11,8 @@ Basic note taking application which assigns a title, text, and datetime to a not
 ### Starbase
 Starbase reaches out to the [Star Wars api](https://swapi.co/) and generates a new character when the card is clicked on.
 
+### Starbase-router
+Further expands on the functionality of Starbase by adding in another page.
+
 ## essentials 
 Basics of Vue syntax and features
