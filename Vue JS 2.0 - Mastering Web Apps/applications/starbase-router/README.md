@@ -1,6 +1,8 @@
-# startbase-router
+# starbase-router
 
 > A Vue.js project
+
+Further expands on the functionality of Starbase by adding in another page.
 
 ## Build Setup
 
