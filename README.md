@@ -14,5 +14,8 @@ Starbase reaches out to the [Star Wars api](https://swapi.co/) and generates a n
 ### Starbase-router
 Further expands on the functionality of Starbase by adding in another page.
 
+### Jokester
+Need some humor in your life?  Look no further than jokester.  Utilizes vuex.
+
 ## essentials 
 Basics of Vue syntax and features
