@@ -7,6 +7,12 @@ Starbase reaches out to the [Star Wars api](https://swapi.co/) and generates a n
 
 # Starbase-router
 Further expands on the functionality of Starbase by adding in another page.
+This project utilizes vue-router.
 
 # Jokester
-Need some humor in your life?  Look no further than jokester.  Utilizes vuex.
+Need some humor in your life?  Look no further than jokester.
+This project utilizs vuex.
+
+# Turnout
+Hosts a board of events posted by users, and users to add new events using a form.  Users authenticate using a username and password.
+This project uses vue-router, vuex, and firebase.
