@@ -23,5 +23,7 @@ This project utilizes vuex.
 Hosts a board of events posted by users, and users to add new events using a form.  Users authenticate using a username and password.
 This project uses vue-router, vuex, and firebase.
 
+**_Note: firebaseApp.js was removed from the git commit to secure my firebase information.  To test out the project, use your own firebase information_**
+
 ## essentials 
 Basics of Vue syntax and features
